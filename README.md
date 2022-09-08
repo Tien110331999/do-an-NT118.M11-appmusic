@@ -144,7 +144,6 @@ Trang tìm kiếm: Tìm kiếm với từ khóa được cung cấp và phân lo
 ## Tác giả
 Trần Trọng Tiến - 17521133@gm.uit.edu.vn
 
-Lê Phước Thiện  - 17521076@gm.uit.edu.vn
 
 
 ## Giấy phép
